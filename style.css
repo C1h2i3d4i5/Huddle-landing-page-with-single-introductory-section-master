@@ -63,7 +63,7 @@ body{
 	box-shadow: 2px 2px 8px #606163;
 	cursor: pointer;
 }
-.web-text button:hover, .social-icons i:hover{
+.web-text button:hover{
 	background-color:  hsl(300, 69%, 71%);
 	color: #fff;
 }
@@ -80,6 +80,9 @@ body{
 	font-size: 15px;
 	margin-left: 10px;
 	cursor: pointer;
+}
+.social-icons i:hover{
+	background-color:  hsl(300, 69%, 71%);
 }
 .attribution { font-size: 15px; text-align: center; }
 .attribution a { color: #fff; }
