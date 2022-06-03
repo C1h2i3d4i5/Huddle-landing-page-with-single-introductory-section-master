@@ -83,6 +83,7 @@ body{
 }
 .social-icons i:hover{
 	color:  hsl(300, 69%, 71%);
+	border-color: hsl(300, 69%, 71%);
 }
 .attribution { font-size: 15px; text-align: center; }
 .attribution a { color: #fff; }
