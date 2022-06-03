@@ -82,7 +82,7 @@ body{
 	cursor: pointer;
 }
 .social-icons i:hover{
-	background-color:  hsl(300, 69%, 71%);
+	color:  hsl(300, 69%, 71%);
 }
 .attribution { font-size: 15px; text-align: center; }
 .attribution a { color: #fff; }
